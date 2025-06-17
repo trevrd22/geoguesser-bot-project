@@ -94,3 +94,6 @@ target/
 
 # exclude data from source control by default
 # /data/
+data\external\osv5m\images\
+data\external\gadm_410.gpkg
+data\external\osv5m\train.csv
