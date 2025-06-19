@@ -97,4 +97,9 @@ target/
 /data/external/osv5m/images/
 /data/external/gadm_410.gpkg
 /data/external/osv5m/train.csv
+/data/external/osv5m/test.csv
+/data/processed/labeledtest.csv
+/data/external/osv5m/images/
+/data/external/gadm_410.gpkg
+/data/external/osv5m/train.csv
 /data/raw
